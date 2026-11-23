@@ -1,5 +1,6 @@
-# Praveen-B-DSWP--Experiment-1B 
-Product-pricing-analysis-using-python-functions
+# Praveen-B-DSWP--Experiment-1B
+# Experiment-1.B.-Product-pricing-analysis-using-python-functions
+
 
 ## Aim
 To analyze quarterly product sales data across multiple products and quarters using 2D NumPy arrays and Python statistical functions.
